@@ -4,3 +4,6 @@
 技术栈：
 
 HTML、SCSS、JavaScript、Vue3、Element Plus、Echart、Axios、Pinia、SHA256
+
+后端部分链接：
+https://github.com/fishshi/CET6PassSmartEducationServerSide
